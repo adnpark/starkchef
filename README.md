@@ -1,7 +1,7 @@
 # StarkChef
 
 Staking reward emission contract, resembles MasterChef contract of SushiSwap.
-Stake tokens(e.g LP tokens) and earn juicy token rewards(e.g SUSHI).
+<br>Stake tokens(e.g LP tokens) and earn juicy token rewards(e.g stkSUSHI).
 
 ## Features
 
